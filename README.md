@@ -96,6 +96,8 @@
        alt="Total GitHub Stats" />
 </p>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasiruChamithLansakara/YasiruChamithLansakara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasiruChamithLansakara/YasiruChamithLansakara/output/pacman-contribution-graph.svg">
