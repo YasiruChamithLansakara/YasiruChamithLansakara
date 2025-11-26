@@ -7,6 +7,7 @@
 <table>
 <tr>
 <td width="60%">
+
 - 🔭 I’m currently exploring **Artificial Intelligence**
 
 - 🌱 Always learning and building **cool projects**
@@ -18,9 +19,12 @@
 - 📫 Reach me at **yasiruchamithlansakara@gmail.com**
 
 - ⚡ Fun fact **Try it yourself to see what I'm like**
+
 </td>
 <td width="40%">
+
 <img src="assets/gifs/Completing tasks while hearing music.gif" alt="coding gif" width="100%">
+
 </td>
 </tr>
 </table>
