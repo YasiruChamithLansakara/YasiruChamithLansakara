@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banners/Banner.png" alt="Banner" width="100%"></p>
+
 <h1 align="center">Hi 👋, I'm Yasiru Chamith Lansakara ✅</h1>
 <h3 align="center">I'm passionate about Computer Science and Artificial Intelligence 🤖. I love to explore new technologies and leverage them to solve real life problems 🫂. Apart from that i also love to coding 💻. I'm working on my own data structures and algorithms 🤓.</h3>
 
