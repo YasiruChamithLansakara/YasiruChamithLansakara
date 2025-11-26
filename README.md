@@ -31,19 +31,7 @@
 
 <br>
 
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://twitter.com/yasiru_chamith" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" style="margin: 0 10px; filter: drop-shadow(0 0 5px #1DA1F2);" />
-  </a>
-  <a href="https://linkedin.com/in/yasiru-chamith-lansakara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" style="margin: 0 10px; filter: drop-shadow(0 0 5px #0A66C2);" />
-  </a>
-  <a href="https://instagram.com/yasiru_chamith_lansakara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" style="margin: 0 10px; filter: drop-shadow(0 0 5px #E1306C);" />
-  </a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/yasiru_chamith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasiru_chamith" height="30" width="40" /></a> <a href="https://linkedin.com/in/yasiru-chamith-lansakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru-chamith-lansakara" height="30" width="40" /></a> <a href="https://instagram.com/yasiru_chamith_lansakara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_chamith_lansakara" height="30" width="40" /></a> </p>
 
 
 <br>
