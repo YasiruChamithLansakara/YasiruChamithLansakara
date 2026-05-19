@@ -133,12 +133,12 @@ When you're ready, replace the line above with repo cards like this:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasiruchamithlansakara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yasiruchamithlansakara&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="./stats/stats.svg" alt="GitHub stats" />
+<img height="165" src="./stats/streak.svg" alt="GitHub streak" />
 
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamithlansakara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="./stats/top-langs.svg" alt="Top languages" />
 
 </div>
 
