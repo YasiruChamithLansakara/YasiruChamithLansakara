@@ -1,0 +1,46 @@
+name: Cache GitHub stats SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+  workflow_dispatch:       # allow manual runs from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  cache-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make stats directory
+        run: mkdir -p stats
+
+      - name: Fetch GitHub stats card
+        run: |
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api?username=yasiruchamithlansakara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" \
+            -o stats/stats.svg
+
+      - name: Fetch streak stats card
+        run: |
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com?user=yasiruchamithlansakara&theme=tokyonight&hide_border=true" \
+            -o stats/streak.svg
+
+      - name: Fetch top languages card
+        run: |
+          curl -sL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruchamithlansakara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" \
+            -o stats/top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh cached stats SVGs"
+          git push
