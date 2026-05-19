@@ -41,7 +41,8 @@ I'm a Computer Science student exploring the space where **algorithms, AI, and r
 
 - 🔭  Currently exploring **machine learning algorithms** and their internals
 - 🧠  Implementing **data structures & algorithms** from the ground up
-- 🧪  Building small **AI / computer vision** experiments in Python
+- 🧪  Building **AI experiments** in Python and **full-stack apps** with the MERN stack
+- 📱  Dabbling in **mobile development** with React Native
 - 💬  Happy to chat about **AI, algorithms, or anything CS**
 - 📫  Reach me at  **yasiruchamithlansakara@gmail.com**
 
@@ -61,7 +62,19 @@ I'm a Computer Science student exploring the space where **algorithms, AI, and r
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,html,css" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative" alt="Frontend" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </p>
 
 **AI / Data / ML**
@@ -71,9 +84,11 @@ I'm a Computer Science student exploring the space where **algorithms, AI, and r
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" alt="Pandas" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML libraries" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="44" alt="OpenCV" />
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44" alt="Seaborn" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="44" alt="Jupyter" />
 </p>
@@ -81,13 +96,13 @@ I'm a Computer Science student exploring the space where **algorithms, AI, and r
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" alt="Databases" />
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma" alt="Tools" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="44" alt="Arduino" />
 </p>
